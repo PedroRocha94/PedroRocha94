@@ -12,6 +12,9 @@
 <a href="https://www.instagram.com/pedro_rocha94/" target="_blank">
 <img align="center" alt="pedro-instagram" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" style="max-width:100%;">
 </a>
+<a href="https://twitter.com/pedro_rocha94" target="_blank">
+<img align="center" alt="pedro-twitter" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" style="max-width:100%;">
+</a>
 
 <!--
 **PedroRocha94/PedroRocha94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
