@@ -3,7 +3,9 @@
 # I'm Pedro Rocha :pray:
 - I'm majoring in Information Systems :woman_technologist:
 - I'm live in Canindé, Ceará, Brazil
+- I'm learning mobile development with ReactJS <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" alt="reactJS" width="30" height="30" style="max-width:100%;"></img>
 - I'm learning mobile development with Flutter <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png" alt="flutter" width="30" height="30" style="max-width:100%;"></img>
+
 
 # Connect with me:
 <a href="https://www.linkedin.com/in/pedro-rocha-7bb3a1189/" target="_blank">
