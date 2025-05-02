@@ -1,5 +1,4 @@
 # 👨‍💻 Pedro R Ferreira
----
 **`Desenvolvedor Backend`**
 
 Sou desenvolvedor Backend, atualmente trabalho com JavaScript/TypeScript com o framework NestJs para a construão de APIs. Utilizo o banco de dados PostgreSQL e Docker para o desenvolvimento de aplicações.
